@@ -1,4 +1,4 @@
 TIEA341
 =======
 
-FO-kurssi
+Tanjan FO-kurssin repository
